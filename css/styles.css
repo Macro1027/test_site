@@ -1,0 +1,44 @@
+
+hr {
+    border-color: #F2F2F1;
+    border-style: dotted none none;
+    border-width: 5px;
+    height: 0px;
+    width: 10%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: brandon-grotesque, HelveticaNeue-Light;
+    text-align: center;
+}
+h1 {
+    color: #1F836C;
+}
+h3 {
+    color: #42B29B;
+}
+a, p{
+    text-align: center;
+    font-family: adobe-garamond-pro,HelveticaNeue-Light;
+}
+
+.center {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+.picture {
+    height: 150px;
+    border-radius: 75px;
+}
+#icons {
+    text-align: center;
+}
+.social_icons {
+    height: 30px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-inline: 4%;
+}
